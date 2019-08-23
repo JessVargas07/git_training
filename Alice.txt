@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Adding remote change to Alice
 Adding a third change to cause conflicts
 Adding a second line text
+=======
+Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+Adding a second line text
+adding a third line following the tutorial
+>>>>>>> adding a new line in alice.txt for divergent merge
